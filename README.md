@@ -2,7 +2,7 @@
 
 In this repository you can find all the code needed to built a "smart" wall clock using an esp8266 and led ring segments. 
 The esp8266 gets the time via NTP. The appearance of the clock can be adjusted using a PWA or via the browser.   
-If need the schematics or build the housing I've designed, the necessarry files can be found in [this repo](https://github.com/FrankenApps/Wanduhr_support_files).
+If you need the schematics or build the housing I've designed, the necessarry files can be found in [this repo](https://github.com/FrankenApps/Wanduhr_support_files).
 
 ## Setup
 1. The code needs to be uploaded using PlatformIO, make sure to install all librarys first
